@@ -1,0 +1,19 @@
+{
+  "internal_addresses": [
+    "LDB1a2b3c4d5e6f7g8h9",
+    "LDB9z8y7x6w5v4u3t2s1",
+    "LDBabcdefghijklmnop"
+  ],
+  "external_known_addresses": [
+    "HDBxyzabc123def456gh",
+    "HDB789xyz456abc123de"
+  ],
+  "blacklist": [
+    "SCAM1a2b3c4d5e6f7g8h9",
+    "FRAUD9z8y7x6w5v4u3t2"
+  ],
+  "user_contacts": {
+    "Sarah": "LDB1a2b3c4d5e6f7g8h9",
+    "Bob": "LDB9z8y7x6w5v4u3t2s1"
+  }
+}
