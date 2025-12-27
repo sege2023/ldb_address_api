@@ -32,5 +32,4 @@ curl -X POST http://localhost:5000/ai/intent/parse \
 ## What's NOT Included (Needs Contract)
 ❌ Real database integration  
 ❌ Production error handling  
-❌ Comprehensive testing  
 ❌ Deployment configuration

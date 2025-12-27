@@ -1,19 +1,18 @@
 {
   "internal_addresses": [
-    "LDB1a2b3c4d5e6f7g8h9",
-    "LDB9z8y7x6w5v4u3t2s1",
-    "LDBabcdefghijklmnop"
-  ],
-  "external_known_addresses": [
-    "HDBxyzabc123def456gh",
-    "HDB789xyz456abc123de"
+    "0x816275d1f9239D99D6D41473244883857a7BA8ed",
+    "3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy",
+    "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+    "bc1qw4r5s6t7u8v9w0x1y2z3a4b5c6d7e8f9g0h1i",
+    "0x32Be343B94f860124dC4fEe278FDCBD38C102D88",
+    "0xAb5801a7D398351b8bE11C439e05C5B3259aec9B",
+    "DdzFFzCqrhsht5jH5vV7qZ4Y5Y2X5Y6Z7X8Y9Z0A1B2C3D4E5F6G7H8I9J0K1L2M3N4O5P6Q7R8S9T0U1V2W3X4Y5Z6",
+    "cosmos15urq2dtp9qce4fyc85m6upwm9xul3049e02707",
+    "cosmos1vladl3k5g6h7j8k9l0m1n2o3p4q5r6s7t8u9v0w",
+    "addr1q8gg2r3vf9zggn48g7m8vx62rwf6warcs4k7ej8mdzmqmesj30jz7psduyk6n4n2qrud2xlv9fgj53n6ds3t8cs4fvzs05yzmz",
+    "addr1q9xy2z3a4b5c6d7e8f9g0h1i2j3k4l5m6n7o8p9q0r1s2t3u4v5w6x7y8z9a0b1c2d3e4f5g6h7j8k9l0m1n2o3p4q5r6s7t8"
   ],
   "blacklist": [
-    "SCAM1a2b3c4d5e6f7g8h9",
-    "FRAUD9z8y7x6w5v4u3t2"
-  ],
-  "user_contacts": {
-    "Sarah": "LDB1a2b3c4d5e6f7g8h9",
-    "Bob": "LDB9z8y7x6w5v4u3t2s1"
-  }
+    "0x816275d1f9239D99D6D41473244883857a7BA8ed"
+  ]
 }

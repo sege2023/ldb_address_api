@@ -63,3 +63,15 @@ def parse_intent():
 
 if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0', port=5000)
+    addresses = [
+        "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa", # Valid BTC
+        "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNb", # Invalid BTC (Typo at end)
+        "0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045", # Valid ETH
+        "TNDFkDS9vD34M479h61j91a5fF7833f99"    # Valid Tron
+    ]
+    
+    print(f"{'ADDRESS':<45} | {'NETWORK':<10} | {'VALID'}")
+    print("-" * 70)
+    for addr in addresses:
+        res = classify_address(addr)
+        print(f"{addr:<45} | {str(res['network']):<10} | {res['valid']}")

@@ -1,2 +1,7 @@
 Flask
 requests
+base58
+pytest
+pytest-cov
+pycryptodome
+eth-utils
